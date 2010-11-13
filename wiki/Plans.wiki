@@ -8,7 +8,7 @@
  # Thoroughly test on linux
  # Add a simple drag and drop mechanism to the core lib
 
-== OchreExt.dll ==
+== !OchreExt.dll ==
 
 This is where I will add "extended" controls for use with the library.  I figure a good way to test the core lib is to write an extension to it.  Planned controls for this library include:
 
