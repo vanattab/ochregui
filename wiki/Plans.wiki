@@ -1,0 +1,18 @@
+#summary Plans, goals, the future...
+
+== Immediate Plans ==
+
+ # Test, test, and more testing, both for bugs and for testing the usability of the programming interface itself.
+ # Add more to the OchreExt.dll (see below)
+ # Fix and flesh out some of the documentation
+ # Thoroughly test on linux
+ # Add a simple drag and drop mechanism to the core lib
+
+== OchreExt.dll ==
+
+This is where I will add "extended" controls for use with the library.  I figure a good way to test the core lib is to write an extension to it.  Planned controls for this library include:
+
+ # A spin box allowing a user to enter a numerical value, either by typing in the value or clicking up/down buttons.  The buttons will scroll the value up or down at a definable rate, and the numerical entry itself can be validated by min/max value.
+ # Some type of color picker, and perhaps an small utility application using color pickers to define the GUI color style
+ # A radio button group box
+ # A slider allowing a different method of specifying a numerical value.  I have a pretty good idea of how I want the interface to work, but I have yet to test any of it for feasibility.
