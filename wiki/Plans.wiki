@@ -4,9 +4,10 @@
 
  # Test, test, and more testing, both for bugs and for testing the usability of the programming interface itself.
  # Add more to the !OchreExt.dll (see below)
- # Fix and flesh out some of the documentation
+ # Fix and flesh out some of the documentation, especially if there is any outside interest in this project.
  # Thoroughly test on linux
  # Add a simple drag and drop mechanism to the core lib
+ # Add more Sample projects, including a skeleton for an inventory system using drag&drop, a character creation skeleton, and, of course, the ultimate RL game with a friendly user interface...
 
 == !OchreExt.dll ==
 
