@@ -8,7 +8,7 @@
  * Utility.dll - a small utility library used in combination with !OchreGui.  Offers data types such as Point, Rect, Size, Dice, and some others.
  * !OchreExt.dll - a WIP for an extended control library.  See [Plans] for more. 
 
-See the ClassLibrary page for more details.
+See the ClassOverview page for more details.
 
 == Design Philosophy ==
 
