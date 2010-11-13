@@ -2,11 +2,11 @@
 
 = What =
 
-OchreGui is a small set of class libraries written in C# for use with the fine Doryen Library for creating rogue-like games.  OchreGui aims to provide a convenient solution to easily and quickly implement a user interface for a roguelike game or application.  Currently, there are 3 libraries available:
+!OchreGui is a small set of class libraries written in C# for use with the fine Doryen Library for creating rogue-like games.  !OchreGui aims to provide a convenient solution to easily and quickly implement a user interface for a roguelike game or application.  Currently, there are 3 libraries available:
 
- * OchreGui.dll - the core library, contains all of the classes having to do with the user interface
+ * !OchreGui.dll - the core library, contains all of the classes having to do with the user interface
  * Utility.dll - a small utility library used in combination with OchreGui.  Offers data types such as Point, Rect, Size, Dice, and some others.
- * OchreExt.dll - a WIP for an extended control library.  See [Plans] for more. 
+ * !OchreExt.dll - a WIP for an extended control library.  See [Plans] for more. 
 
 == Design Philosophy ==
 
@@ -23,4 +23,4 @@ In the process of tinkering with libtcod over the years, I seem to always get hu
 
 = How =
 
-Adding the library to an existing libtcod.net project _should_ be as simple as adding Utility.dll and OchreGui.dll as references.  In order to run the binaries, you must have all the proper libtcod dependencies for your OS, as well as have the necessary .net or mono installed to run .NET 3.5 applications.
+Adding the library to an existing libtcod.net project _should_ be as simple as adding Utility.dll and !OchreGui.dll as references.  In order to run the binaries, you must have all the proper libtcod dependencies for your OS, as well as have the necessary .net or mono installed to run .NET 3.5 applications.
