@@ -5,7 +5,7 @@
 !OchreGui is a small set of class libraries written in C# for use with the fine Doryen Library for creating rogue-like games.  !OchreGui aims to provide a convenient solution to easily and quickly implement a user interface for a roguelike game or application.  Currently, there are 3 libraries available:
 
  * !OchreGui.dll - the core library, contains all of the classes having to do with the user interface
- * Utility.dll - a small utility library used in combination with OchreGui.  Offers data types such as Point, Rect, Size, Dice, and some others.
+ * Utility.dll - a small utility library used in combination with !OchreGui.  Offers data types such as Point, Rect, Size, Dice, and some others.
  * !OchreExt.dll - a WIP for an extended control library.  See [Plans] for more. 
 
 == Design Philosophy ==
