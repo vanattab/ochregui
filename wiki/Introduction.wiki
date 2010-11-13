@@ -6,7 +6,7 @@ OchreGui is a small set of class libraries written in C# for use with the fine D
 
  * OchreGui.dll - the core library, contains all of the classes having to do with the user interface
  * Utility.dll - a small utility library used in combination with OchreGui.  Offers data types such as Point, Rect, Size, Dice, and some others.
- * OchreExt.dll - a WIP for an extended control library.  See Plans for more. 
+ * OchreExt.dll - a WIP for an extended control library.  See [Plans] for more. 
 
 == Design Philosophy ==
 
