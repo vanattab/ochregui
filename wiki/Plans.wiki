@@ -3,7 +3,7 @@
 == Immediate Plans ==
 
  # Test, test, and more testing, both for bugs and for testing the usability of the programming interface itself.
- # Add more to the OchreExt.dll (see below)
+ # Add more to the !OchreExt.dll (see below)
  # Fix and flesh out some of the documentation
  # Thoroughly test on linux
  # Add a simple drag and drop mechanism to the core lib
