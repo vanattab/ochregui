@@ -10,7 +10,7 @@
 
 See the ClassOverview page for more details.
 
-Also, I try to keep the compile help file (OchreGui.chm) up-to-date, and it can be found here: http://code.google.com/p/ochregui/source/browse/trunk/%20ochregui/OchreGui.chm
+Also, I try to keep the compile help file (!OchreGui.chm) up-to-date, and it can be found here: http://code.google.com/p/ochregui/source/browse/trunk/%20ochregui/OchreGui.chm
 
 == Design Philosophy ==
 
