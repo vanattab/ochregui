@@ -12,6 +12,8 @@ See the ClassOverview page for more details.
 
 Also, I try to keep the compiled help file (!OchreGui.chm) up-to-date, and it can be found here: http://code.google.com/p/ochregui/source/browse/trunk/%20ochregui/OchreGui.chm
 
+NOTE: In order to view !OchreGui.chm on Windows, the help file must be on a local disk.  Also, you may need to right-click on the file, choose properties, and click on "Unblock" in the general tab.
+
 == Design Philosophy ==
 
 A couple quick notes:
